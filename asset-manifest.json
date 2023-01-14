@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Nischay/static/css/main.071b58b1.css",
-    "main.js": "/Nischay/static/js/main.13a17fd8.js",
+    "main.js": "/Nischay/static/js/main.08c4ab07.js",
     "static/js/787.28cb0dcd.chunk.js": "/Nischay/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/Nischay/index.html",
     "main.071b58b1.css.map": "/Nischay/static/css/main.071b58b1.css.map",
-    "main.13a17fd8.js.map": "/Nischay/static/js/main.13a17fd8.js.map",
+    "main.08c4ab07.js.map": "/Nischay/static/js/main.08c4ab07.js.map",
     "787.28cb0dcd.chunk.js.map": "/Nischay/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.071b58b1.css",
-    "static/js/main.13a17fd8.js"
+    "static/js/main.08c4ab07.js"
   ]
 }
